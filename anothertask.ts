@@ -43,7 +43,7 @@ class Person{
 
     reception1.eat();
     reception1.reception();
-    reception1.speaks();
+    
 
     
     
